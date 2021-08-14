@@ -5,3 +5,7 @@
 6th change in feature
 7th commit
 7th change in feature
+
+rebase 1
+rebase 2
+rebase 3
